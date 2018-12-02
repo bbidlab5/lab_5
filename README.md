@@ -1,5 +1,4 @@
 # lab_5
-# Inf
 <p>Данный проект является калькулятором по нахождению гипотенузы для практической работы №5.</p>
 <img src="https://github.com/Anshef4/lab_5/blob/master/lab_5.png"/>
 <br>
